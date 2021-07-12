@@ -5,6 +5,8 @@ A simple hotel website entirely made of HTML and CSS.
 
 This project helped my in understanding the concepts of floats.
 
+This project is not mobile responsive.
+
 
 
 ## Demo
